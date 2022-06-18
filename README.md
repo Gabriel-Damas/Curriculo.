@@ -1,1 +1,1 @@
-https://gabriel-damas.github.io/Curr-culo./
+# https://gabriel-damas.github.io/Curriculo./
